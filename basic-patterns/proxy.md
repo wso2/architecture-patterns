@@ -1,5 +1,5 @@
 # Proxy
-<img src="icons/proxy.png" alt="proxy icon" width="110"/>
+<img src="../icons/proxy.png" alt="proxy icon" width="110"/>
 
 ## Use Case
 Consumption of existing computing capabilities<sup>1</sup> with modern software applications requires standardisation, open access and unification of those based on business functions. Revamping such existing assets to meet the latest standards or developing new assets to replace them is costly, time-consuming and does not bring significant value from a business perspective. More importantly, there is always a possibility that the latest set of standards in the application development industry today could get easily replaced by a new set of standards tomorrow.
@@ -11,4 +11,4 @@ As a solution, it is possible to introduce an **intermediary component** to faca
 
 <sup>2</sup> _old, legacy, non-standard, etc._
 
-<img src="icons/proxy_examples.png" alt="proxy examples image" width="800"/>.
+<img src="../icons/proxy_examples.png" alt="proxy examples image" width="800"/>.

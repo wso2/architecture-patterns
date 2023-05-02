@@ -1,5 +1,5 @@
 # Connection
-<img src="icons/connector.png" alt="connector icon" width="110"/>
+<img src="../icons/connector.png" alt="connector icon" width="110"/>
 
 ## Use Case
 System of Record (SOR) integration<sup>1</sup> is a common requirement found in the context of digital transformation. That is because pieces of business information often remain distributed across multiple systems—although it is required to allow access to such data through a single system or/and in a unified format. 
@@ -16,5 +16,5 @@ A connector simplifies the connection between the SOR and the application that e
 ### In the context of Software
 The party who provides a connector is responsible for maintaining it and ensuring continuous compliance with the SOR. That allows the application developer to focus on the application logic and not worry about the technical details of the SOR. In ideal scenarios, the connector providers would also supply libraries/SDKs for multiple technological stacks.
 
-<img src="icons/conector-usage.png" alt="connector icon" width="900"/> 
+<img src="../icons/conector-usage.png" alt="connector icon" width="900"/> 
 
