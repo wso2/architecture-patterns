@@ -1,5 +1,5 @@
 # architecture-patterns
 We are planning to use this space for article contents under architectural patterns.
 
-[Basic patterns](basic-patterns/README.md)
-Reference implementations
+* [Basic patterns](basic-patterns/README.md)
+* Reference implementations

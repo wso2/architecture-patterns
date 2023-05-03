@@ -1,3 +1,3 @@
 
-[Proxy](proxy.md)
-[Connection](connection.md)
+* [Proxy](proxy.md)
+* [Connection](connection.md)
