@@ -11,4 +11,4 @@ As a solution, it is possible to introduce an **intermediary component** to faca
 
 <sup>2</sup> _old, legacy, non-standard, etc._
 
-<img src="../icons/proxy_examples.png" alt="proxy examples image" width="800"/>.
+<img src="./images/proxy-usage_1-server.svg" alt="proxy examples image" width="600"/>.
