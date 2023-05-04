@@ -11,9 +11,11 @@ Connecting an application to a SOR also includes non-functional, secondary techn
 ## Solution
 There are many ways to address this, such as using a piece of custom middleware to connect each SOR or/and using a centralised solution such as a data warehouse to store the data retrieved from many SORs. However, the most common approach for this is to use a **connector** due to a few good reasons partially discussed above.
 
+<img src="./images/connector-usage_1.svg" alt="connector icon" width="600"/>
+
 A connector simplifies the connection between the SOR and the application that exchanges data with the SOR by providing a layer of abstraction. This idea helps separate secondary technical functions (i.e. security, network communication) from business domain functions. 
 
 ### In the context of Software
 The party who provides a connector is responsible for maintaining it and ensuring continuous compliance with the SOR. That allows the application developer to focus on the application logic and not worry about the technical details of the SOR. In ideal scenarios, the connector providers would also supply libraries/SDKs for multiple technological stacks.
-<img src="./images/connector-usage_1.svg" alt="connector icon" width="600"/> 
+ 
 
