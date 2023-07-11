@@ -15,9 +15,11 @@ Version: Summer-2023
    * [Gateway Router](reference-implementations/README.md)
 
 <hr/>
+
 ##### The Icon Library
 The following is a library of icons that will be improved iteratively. These will be free to use in any project even for commercial purposes and the source files are also provided in SVG format.
-|Icon   |Category    |Description
+
+|Icon   |Category    |Description|
 |-------|:------:|----|
 |<img src="icons/application.svg" alt="application icon" width="110"/>|Application| Any type of a software application that acts as a client of the services, systems, assets exposed by a provider|
 |<img src="icons/connector.png" alt="connector icon" width="110"/>|Connector| An agent designed specifically to act as a [remote proxy](./proxy.md) of a specific system|
