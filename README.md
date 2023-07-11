@@ -7,9 +7,9 @@ Version: Summer-2023
 
 #### This article series is presented in two main segments.
 ##### 1. Fundamentals 
-   * [Proxy](basic-patterns/proxy.md)
-   * [Connection](basic-patterns/connection.md)
-   * [Service Chaining](basic-patterns/service-chaining.md)
+   * [Proxy](fundamentals/proxy.md)
+   * [Connection](fundamentals/connection.md)
+   * [Service Chaining](fundamentals/service-chaining.md)
 
 ##### 2. Reference implementations
    * [Gateway Router](reference-implementations/README.md)
@@ -22,8 +22,8 @@ The following is a library of icons that will be improved iteratively. These wil
 |Icon   |Category    |Description|
 |-------|:------:|----|
 |<img src="icons/application.svg" alt="application icon" width="110"/>|Application| Any type of a software application that acts as a client of the services, systems, assets exposed by a provider|
-|<img src="icons/connector.png" alt="connector icon" width="110"/>|Connector| An agent designed specifically to act as a [remote proxy](./basic-patterns/proxy.md) of a specific system|
+|<img src="icons/connector.png" alt="connector icon" width="110"/>|Connector| An agent designed specifically to act as a [remote proxy](./fundamentals/proxy.md) of a specific system|
 |<img src="icons/legacy.svg" alt="legacy application icon" width="110"/>|Legacy Application| Typically, an existing asset that was designed to serve a certain business purpose with less (or no) focus on integration with other systems.|
-|<img src="icons/proxy.svg" alt="proxy icon" width="110"/>|Proxy| An intermediary component that facades  existing assets to provide a unified interface to modern applications. Please refer to [proxy pattern](./basic-patterns/proxy.md) for further details.|
+|<img src="icons/proxy.svg" alt="proxy icon" width="110"/>|Proxy| An intermediary component that facades  existing assets to provide a unified interface to modern applications. Please refer to [proxy pattern](./fundamentals/proxy.md) for further details.|
 |<img src="icons/service-endpoint.svg" alt="service endpoint icon" width="110"/>|Service Endpoint| This includes all possible backend systems including but not limited to Legacy Applications, Web Services, APIs, SoR *(e.g. CRM, ERP)* and Databases.|
 |<img src="icons/sor.svg" alt="sor icon" width="110"/>|SoR| System of Record (SoR) -  A data source system/platfomr that maintains the master data for a particular domain or organization|
