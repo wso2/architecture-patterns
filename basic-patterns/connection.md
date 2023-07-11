@@ -1,5 +1,10 @@
 # Connection
-<img src="../icons/connector.png" alt="connector icon" width="110"/>
+
+|Icon   |Name    |Description
+|-------|:------:|----|
+|<img src="../icons/connector.png" alt="connector icon" width="110"/>|Connector| An agent designed specifically to act as a [remote proxy](./proxy.md) of a specific system|
+|<img src="../icons/application.svg" alt="application icon" width="110"/>|Application| Any type of a software application that acts as a client of the services, systems, assets exposed by a provider|
+|<img src="../icons/sor.svg" alt="sor icon" width="110"/>|SoR| System of Record (SoR) -  A data source system/platfomr that maintains the master data for a particular domain or organization|
 
 ## Use Case
 System of Record (SOR) integration<sup>1</sup> is a common requirement found in the context of digital transformation. That is because pieces of business information often remain distributed across multiple systems—although it is required to allow access to such data through a single system or/and in a unified format. 
@@ -18,4 +23,3 @@ A connector simplifies the connection between the SOR and the application that e
 ### In the context of Software
 The party who provides a connector is responsible for maintaining it and ensuring continuous compliance with the SOR. That allows the application developer to focus on the application logic and not worry about the technical details of the SOR. In ideal scenarios, the connector providers would also supply libraries/SDKs for multiple technological stacks.
  
-

@@ -19,4 +19,4 @@ The proposed solution is generally referred to as Service Chaining. In simple te
 
 The most common way of implementing this is through a proxy service built as a micro-service, serverless function or a piece of middleware. The **processing** steps depicted in the above diagram may include any relevant action such as data caching, transformation, enrichment and aggregation.
 
-Service Chaining can be treated as a subset of Service Orchestration. It represents the idea of sequential communication with service endpoints, whereas the generic term Service Orchestration may include all other styles such as parallel-invocation and recepients-list style communication.
+Service Chaining can be treated as a subset of Service Orchestration. It represents the idea of sequential communication with service endpoints, whereas the generic term Service Orchestration includes all other styles such as parallel-invocation and recepients-list style communication.
